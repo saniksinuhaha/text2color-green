@@ -1,0 +1,29 @@
+{
+  "name": "text2color-green",
+  "version": "1.0.0",
+  "description": "A simple module to change text color to green",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "text",
+    "color",
+    "green"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0",
+    "chai": "^4.3.4",
+    "sinon": "^11.1.2"
+  }
+}
